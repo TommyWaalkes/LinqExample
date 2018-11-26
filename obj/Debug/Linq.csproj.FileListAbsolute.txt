@@ -1,0 +1,7 @@
+C:\Users\Tommy\Documents\Visual Studio 2017\Projects\Linq\bin\Debug\Linq.exe.config
+C:\Users\Tommy\Documents\Visual Studio 2017\Projects\Linq\bin\Debug\Linq.exe
+C:\Users\Tommy\Documents\Visual Studio 2017\Projects\Linq\bin\Debug\Linq.pdb
+C:\Users\Tommy\Documents\Visual Studio 2017\Projects\Linq\obj\Debug\Linq.csprojAssemblyReference.cache
+C:\Users\Tommy\Documents\Visual Studio 2017\Projects\Linq\obj\Debug\Linq.csproj.CoreCompileInputs.cache
+C:\Users\Tommy\Documents\Visual Studio 2017\Projects\Linq\obj\Debug\Linq.exe
+C:\Users\Tommy\Documents\Visual Studio 2017\Projects\Linq\obj\Debug\Linq.pdb
